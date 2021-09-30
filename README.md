@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @suphitcha-chan
-- 👀 I’m interested in Recommendation System
-- 🌱 I’m currently learning Sentiment analysis
+- 👋 Hi, I’m Suphitcha Chanrueang.
+- 👀 I’m interested in Recommendation System.
+- 🌱 I’m currently learning Sentiment analysis.
 - 💞️ I’m looking to collaborate on my project.
 - 📫 How to reach me : suphitcha_c@hotmail.com
 
